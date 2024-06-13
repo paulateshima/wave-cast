@@ -13,6 +13,7 @@ Projeto desenvolvido no curso da Formação da Plataforma Alura.
 * HTML5
 * CSS3
 * Grid
+* Flexbox
 * Responsividade
 * Variáveis CSS
 
@@ -34,4 +35,4 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui]()
+Você pode acessar este Projeto 👉 [aqui](https://wave-cast-sepia.vercel.app/)
